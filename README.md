@@ -11,7 +11,6 @@ I am a tenured research scientist at the French Institute for for health and med
 - [NEURES-1158](https://github.com/Neures-1158) – Organization repositories
 - [lachart_txt_parser](https://github.com/dambach/lachart_txt_parser) - Python package for parsing .txt exported labchart files 
 - [resp_metrics](https://github.com/dambach/resp_metrics) - Python package to compute ventilatory variables and mechanical ventilation metrics
-- 
 
 
 <!--
