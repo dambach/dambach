@@ -13,6 +13,9 @@ I am a tenured research scientist at the French Institute for for health and med
 - [resp_metrics](https://github.com/dambach/resp_metrics) - Python package to compute ventilatory variables and mechanical ventilation metrics
 
 
+![Snake animation](https://github.com/dambach/dambach/blob/output/github-contribution-grid-snake.svg)
+
+
 <!--
 **dambach/dambach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
