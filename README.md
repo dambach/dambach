@@ -3,7 +3,7 @@ I am a tenured research scientist at the French Institute for for health and med
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar)](https://scholar.google.fr/citations?user=DNt--nsAAAAJ&hl=fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin)](https://www.linkedin.com/in/damienbachasson/)
-[![Website](https://img.shields.io/badge/Website-damienbachasson.com-1a73e8)](https://damienbachasson.netlify.app/)
+[![Website](https://img.shields.io/badge/Website-personal-1a73e8)](https://damienbachasson.netlify.app/)
 
 ---
 
