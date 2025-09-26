@@ -1,5 +1,9 @@
 ## Hi there 👋
-I am a tenured research scientist at the French Institute for for health and medical research (Inserm). I lead the [NEURES](https://github.com/Neures-1158) research group hosted at the  [1158 joint resarch unit](https://sante.sorbonne-universite.fr/structures-de-recherche/neurophysiologie-respiratoire-experimentale-et-clinique) Inserm-Sorbonne Université).
+I am a tenured research scientist at the French Institute for for health and medical research (Inserm). I am working at the cross-road between skeletal muscle (respiratory and locomotor) physiology, biomedical engineering, and rehabilitation sciences. My research bridges fundamental physiology and technological innovation to develop new diagnostic and therapeutic solutions for neuromuscular impairments. Methodological and technological advancements play a central role in my work, particularly in the characterization of neuromuscular structure and function. 
+
+At our lab, we leverage cutting-edge techniques such as ultrafast ultrasound imaging & molecular imaging, physiological measurements & artificial neurostimulation, computational modeling & and tissue-based analysis.Beyond research, I am actively engaged in the valorization of scientific innovation for public health, translating research into real-world impact. I am also committed to data science, reproducible research, and training. 
+
+I lead the [NEURES](https://github.com/Neures-1158) research group hosted at the  [1158 joint resarch unit](https://sante.sorbonne-universite.fr/structures-de-recherche/neurophysiologie-respiratoire-experimentale-et-clinique) Inserm-Sorbonne Université).
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar)](https://scholar.google.fr/citations?user=DNt--nsAAAAJ&hl=fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin)](https://www.linkedin.com/in/damienbachasson/)
