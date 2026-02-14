@@ -1,7 +1,11 @@
 ## Hi there 👋
-I am a tenured research scientist at the French Institute for for health and medical research (Inserm). I am working at the cross-road between skeletal muscle (respiratory and locomotor) physiology, biomedical engineering, and rehabilitation sciences. My research bridges fundamental physiology and technological innovation to develop new diagnostic and therapeutic solutions for neuromuscular impairments. Methodological and technological advancements play a central role in my work, particularly in the characterization of neuromuscular structure and function. 
+I am a tenured research scientist at the French National Institute of Health and Medical Research (INSERM). My work lies at the intersection of skeletal muscle (respiratory and locomotor) physiology, biomedical engineering and rehabilitation sciences. My research combines fundamental physiology with technological innovation to develop new diagnostic and therapeutic solutions for neuromuscular impairments. Methodological and technological advancements play a central role in my work, particularly with regard to the characterisation of neuromuscular structure and function.
 
-At our lab, we leverage cutting-edge techniques such as ultrafast ultrasound imaging & molecular imaging, physiological measurements & artificial neurostimulation, computational modeling & and tissue-based analysis.Beyond research, I am actively engaged in the valorization of scientific innovation for public health, translating research into real-world impact. I am also committed to data science, reproducible research, and training.
+In our lab, we leverage cutting-edge techniques ssuch as ultrafast ultrasound and molecular imaging, physiological measurements and artificial neurostimulation, as well as computational modelling and tissue-based analysis.
+
+Beyond research, I am actively engaged in the valorization of scientific innovation for public health, translating research into real-world impact. I am also committed to data science, reproducible research, and training of young scientists.
+
+Feel free to get in touch regarding any of my interests.
 
 <div style="display: flex; align-items: center;">
     <img src="./logo_NEURES_noBkgrnd.png" alt="NEURES Research Group Logo" width="140" style="margin-right: 20px"/>
@@ -16,7 +20,7 @@ At our lab, we leverage cutting-edge techniques such as ultrafast ultrasound ima
 ---
 
 ## Selected projects
-- [NEURES-1158](https://github.com/Neures-1158) – Organization repositories
+- [NEURES-1158](https://github.com/Neures-1158) – Organization repositories of my research group
 - [lachart_txt_parser](https://github.com/dambach/lachart_txt_parser) - Python package for parsing .txt exported labchart files 
 - [resp_metrics](https://github.com/dambach/resp_metrics) - Python package to compute ventilatory variables and mechanical ventilation metrics
 
