@@ -8,7 +8,7 @@ Beyond research, I am actively engaged in the valorization of scientific innovat
 Feel free to get in touch regarding any of my interests.
 
 <div style="display: flex; align-items: center;">
-    <img src="./logo_NEURES_noBkgrnd.png" alt="NEURES Research Group Logo" width="140" style="margin-right: 20px"/>
+    <img src="./NEURES_logo_horizontal.png" alt="NEURES Research Group Logo" width="140" style="margin-right: 20px"/>
     <p>I lead the <a href="https://github.com/Neures-1158">NEURES</a> research group hosted at the <a href="https://sante.sorbonne-universite.fr/structures-de-recherche/neurophysiologie-respiratoire-experimentale-et-clinique">1158 joint resarch unit</a> Inserm-Sorbonne Université).</p>
 </div>
 <br/>
