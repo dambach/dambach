@@ -5,13 +5,17 @@ In our lab, we leverage cutting-edge techniques such as ultrafast ultrasound and
 
 Beyond research, I am actively engaged in the valorization of scientific innovation for public health, translating research into real-world impact. I am also committed to data science, reproducible research, and training of young scientists.
 
-Feel free to get in touch regarding any of my interests.
+
+I lead the <a href="https://github.com/Neures-1158">NEURES</a> research group hosted at the <a href="https://sante.sorbonne-universite.fr/structures-de-recherche/neurophysiologie-respiratoire-experimentale-et-clinique">1158 joint resarch unit</a> Inserm-Sorbonne Université.
 
 <div style="display: flex; align-items: center;">
-    <img src="./NEURES_logo_horizontal.png" alt="NEURES Research Group Logo" width="140" style="margin-right: 20px"/>
-    <p>I lead the <a href="https://github.com/Neures-1158">NEURES</a> research group hosted at the <a href="https://sante.sorbonne-universite.fr/structures-de-recherche/neurophysiologie-respiratoire-experimentale-et-clinique">1158 joint resarch unit</a> Inserm-Sorbonne Université).</p>
-</div>
-<br/>
+    <a href="https://github.com/Neures-1158">
+        <img src="./NEURES_logo_horizontal.png" alt="NEURES Research Group Logo" width="330" style="margin-right: 20px"/>
+    </a>
+</div>  
+
+Feel free to get in touch regarding any of my interests.
+
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar)](https://scholar.google.fr/citations?user=DNt--nsAAAAJ&hl=fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin)](https://www.linkedin.com/in/damienbachasson/)
