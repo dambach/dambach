@@ -1,10 +1,9 @@
 ## Hi there 👋
-I am a tenured research scientist at the French National Institute of Health and Medical Research (INSERM). My work lies at the intersection of skeletal muscle (respiratory and locomotor) physiology, biomedical engineering and rehabilitation sciences. My research combines fundamental physiology with technological innovation to develop new diagnostic and therapeutic solutions for neuromuscular impairments. Methodological and technological advancements play a central role in my work, particularly with regard to the characterisation of neuromuscular structure and function.
+I am a senior researcher  at the French National Institute of Health and Medical Research (INSERM). My work lies at the intersection of skeletal muscle (respiratory and locomotor) physiology, biomedical engineering and rehabilitation sciences. My research combines fundamental physiology with technological innovation to develop new diagnostic and therapeutic solutions for neuromuscular impairments. Methodological and technological advancements play a central role in my work, particularly with regard to the characterisation of neuromuscular structure and function.
 
 In our lab, we leverage cutting-edge techniques such as ultrafast ultrasound and molecular imaging, physiological measurements and artificial neurostimulation, as well as computational modelling and tissue-based analysis.
 
 Beyond research, I am actively engaged in the valorization of scientific innovation for public health, translating research into real-world impact. I am also committed to data science, reproducible research, and training of young scientists.
-
 
 I lead the <a href="https://github.com/Neures-1158">NEURES</a> research group hosted at the <a href="https://sante.sorbonne-universite.fr/structures-de-recherche/neurophysiologie-respiratoire-experimentale-et-clinique">1158 joint resarch unit</a> Inserm-Sorbonne Université.
 
