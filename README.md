@@ -1,44 +1,25 @@
 ## Hi there 👋
-I am a senior researcher  at the French National Institute of Health and Medical Research (INSERM). My work lies at the intersection of skeletal muscle (respiratory and locomotor) physiology, biomedical engineering and rehabilitation sciences. My research combines fundamental physiology with technological innovation to develop new diagnostic and therapeutic solutions for neuromuscular impairments. Methodological and technological advancements play a central role in my work, particularly with regard to the characterisation of neuromuscular structure and function.
 
-In our lab, we leverage cutting-edge techniques such as ultrafast ultrasound and molecular imaging, physiological measurements and artificial neurostimulation, as well as computational modelling and tissue-based analysis.
+I am a senior researcher at Inserm (French National Institute of Health and Medical Research) in Paris. I study skeletal muscle physiology, respiratory and locomotor, at the interface with biomedical engineering and rehabilitation sciences. I develop methods to measure muscle structure and function, such as ultrafast ultrasound, shear wave elastography, molecular imaging, electrophysiology and neurostimulation, and turn them into diagnostic tools and treatments for neuromuscular impairment.
 
-Beyond research, I am actively engaged in the valorization of scientific innovation for public health, translating research into real-world impact. I am also committed to data science, reproducible research, and training of young scientists.
+I lead the [NEURES](https://github.com/Neures-1158) research group (Neuromuscular Respiratory Pathophysiology) in the joint research unit [UMR-S 1158](https://sante.sorbonne-universite.fr/structures-de-recherche/neurophysiologie-respiratoire-experimentale-et-clinique) (Inserm, Sorbonne Université). I am also building DIAV+, a medical device for continuous, non-invasive monitoring of inspiratory effort during mechanical ventilation.
 
-I lead the <a href="https://github.com/Neures-1158">NEURES</a> research group hosted at the <a href="https://sante.sorbonne-universite.fr/structures-de-recherche/neurophysiologie-respiratoire-experimentale-et-clinique">1158 joint resarch unit</a> Inserm-Sorbonne Université.
+I care about data science, reproducible research and training young scientists.
 
-<div style="display: flex; align-items: center;">
-    <a href="https://github.com/Neures-1158">
-        <img src="./NEURES_logo_horizontal.png" alt="NEURES Research Group Logo" width="330" style="margin-right: 20px"/>
-    </a>
-</div>  
+<a href="https://github.com/Neures-1158"><img src="./NEURES_logo_horizontal.png" alt="NEURES research group" width="330"/></a>
 
-Feel free to get in touch regarding any of my interests.
-
-
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar)](https://scholar.google.fr/citations?user=DNt--nsAAAAJ&hl=fr)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6335--9916-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6335-9916)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar)](https://scholar.google.fr/citations?user=DNt--nsAAAAJ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin)](https://www.linkedin.com/in/damienbachasson/)
 [![Website](https://img.shields.io/badge/Website-personal-1a73e8)](https://damienbachasson.netlify.app/)
+
+Contact: [damien.bachasson@inserm.fr](mailto:damien.bachasson@inserm.fr)
 
 ---
 
 ## Selected projects
-- [NEURES-1158](https://github.com/Neures-1158) – Organization repositories of my research group
-- [lachart_txt_parser](https://github.com/dambach/lachart_txt_parser) - Python package for parsing .txt exported labchart files 
-- [resp_metrics](https://github.com/dambach/resp_metrics) - Python package to compute ventilatory variables and mechanical ventilation metrics
 
-
-<!--
-**dambach/dambach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [NEURES](https://github.com/Neures-1158): repositories of my research group
+- [labchart_txt_parser](https://github.com/Neures-1158/labchart_txt_parser): Python package to parse LabChart text exports
+- [resp_metrics](https://github.com/Neures-1158/resp_metrics): Python package to compute ventilatory and mechanical ventilation variables from LabChart exports
+- [app_strength-Harbo](https://github.com/dambach/app_strength-Harbo): Shiny app computing predicted maximal isometric and isokinetic strength in major muscle groups ([online version](https://damienbachasson.shinyapps.io/app_strength-Harbo/))
