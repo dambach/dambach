@@ -2,7 +2,7 @@
 
 I am a senior researcher at Inserm (French National Institute of Health and Medical Research) in Paris. My research asks how tissue properties and neuromuscular drive determine the force of the respiratory muscles, the diaphragm first, and in turn ventilatory mechanics. I develop imaging, electrophysiology, modelling and neurostimulation methods to study these mechanisms in health and in respiratory and neuromuscular disease, and turn them into biomarkers for clinical decisions and into treatments that preserve or restore respiratory function.
 
-I lead the [NEURES](https://github.com/Neures-1158) research group (Neuromuscular Respiratory Pathophysiology) in the joint research unit [UMR-S 1158](https://sante.sorbonne-universite.fr/structures-de-recherche/neurophysiologie-respiratoire-experimentale-et-clinique) (Inserm, Sorbonne Université). I am also building DIAV+, a medical device for continuous, non-invasive monitoring of inspiratory effort during mechanical ventilation.
+I lead the [NEURES](https://github.com/Neures-1158) research group (Neuromuscular Respiratory Pathophysiology) in the joint research unit UMR-S 1158 (Inserm, Sorbonne Université). I am also building DIAV+, a medical device for continuous, non-invasive monitoring of inspiratory effort during mechanical ventilation.
 
 I build open-source tools for physiological signal analysis and train young scientists in reproducible research practices.
 
