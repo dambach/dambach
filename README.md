@@ -11,7 +11,6 @@ I care about data science, reproducible research and training young scientists.
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6335--9916-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6335-9916)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar)](https://scholar.google.fr/citations?user=DNt--nsAAAAJ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin)](https://www.linkedin.com/in/damienbachasson/)
-[![Website](https://img.shields.io/badge/Website-personal-1a73e8)](https://damienbachasson.netlify.app/)
 
 Contact: [damien.bachasson@inserm.fr](mailto:damien.bachasson@inserm.fr)
 
