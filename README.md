@@ -4,7 +4,7 @@ I am a senior researcher at Inserm (French National Institute of Health and Medi
 
 I lead the [NEURES](https://github.com/Neures-1158) research group (Neuromuscular Respiratory Pathophysiology) in the joint research unit [UMR-S 1158](https://sante.sorbonne-universite.fr/structures-de-recherche/neurophysiologie-respiratoire-experimentale-et-clinique) (Inserm, Sorbonne Université). I am also building DIAV+, a medical device for continuous, non-invasive monitoring of inspiratory effort during mechanical ventilation.
 
-I care about data science, reproducible research and training young scientists.
+I build open-source tools for physiological signal analysis and train young scientists in reproducible research practices.
 
 <a href="https://github.com/Neures-1158"><img src="./NEURES_logo_horizontal.png" alt="NEURES research group" width="330"/></a>
 
