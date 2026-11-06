@@ -23,5 +23,5 @@ Contact: [damien.bachasson@inserm.fr](mailto:damien.bachasson@inserm.fr)
 - [NEURES](https://github.com/Neures-1158): repositories of my research group
 - [labchart_txt_parser](https://github.com/Neures-1158/labchart_txt_parser): Python package to parse LabChart text exports
 - [resp_metrics](https://github.com/Neures-1158/resp_metrics): Python package to compute ventilatory and mechanical ventilation variables from LabChart exports
-- [app_strength-Harbo](https://github.com/dambach/app_strength-Harbo): Shiny app computing predicted maximal isometric and isokinetic strength in major muscle groups ([online version](https://damienbachasson.shinyapps.io/app_strength-Harbo/))
+- [app_strength-Harbo](https://github.com/dambach/app_strength-Harbo): web app comparing isokinetic and isometric strength of 18 muscle functions with reference values from healthy adults (Harbo et al. 2012; % predicted, z-score) ([online version](https://dambach.github.io/app_strength-Harbo/))
 - [app_knee-extension-norms](https://github.com/dambach/app_knee-extension-norms): web app comparing isometric knee extension strength at 90° with reference values from healthy adults (% predicted, z-score) ([online version](https://dambach.github.io/app_knee-extension-norms/))
